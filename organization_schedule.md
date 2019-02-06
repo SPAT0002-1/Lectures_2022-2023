@@ -1,6 +1,6 @@
 # SPAT0002-1 organization and schedule
 
-Actual scheme: 15h+15h 
+Actual scheme: 20h+10h 
 
 ## Calendar 2018-2019:
 
