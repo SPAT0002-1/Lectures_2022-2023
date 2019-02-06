@@ -16,4 +16,4 @@ For a detailed introduction to Version Control Systems:
 - The Pro-GIT book written by Scott Chacon and Ben Straub and published by Apress (Mostly Chap 1-4):
 [https://git-scm.com/book/fr/v2](https://git-scm.com/book/fr/v2)
 
-Additional references will be given at the end of every lecture. 
+Additional references will be given at the end of most of the Notebooks. 
