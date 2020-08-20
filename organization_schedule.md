@@ -2,16 +2,18 @@
 
 Actual scheme: 15h+15h   
 
-## Calendar 2019-2020:   
+## Calendar 2020-2021:   
+
+Lectures on Mondays from 16:00 to 18:00 
+         and Wednesdays from 16:00 to 18:00 
 
 Teaching:    
-Monday 10/02/2020 – Friday 22/05/2020.  
-To be cancelled: Monday 02/03/2020  (Morocco trip)    
+Monday 14/09/2020 – Friday 18/12/2020.  
+To be cancelled: TBD    
 
 Holidays:   
-24/02/2020 (Srove Monday / Public holiday).   
-06/04/2020 -> 18/04/2020 - Easter      
+Mon. 11/11/2020 
 
 Exam session:    
-S1: Monday 01/06/2020 - Thursday 02/07/2020.   
-S2(preliminary): Monday 17/08/2020 - Thursday 17/09/2020     
+S1: Monday 04/01/2021 - Friday 29/01/2021.   
+S2(preliminary): Monday 18/08/2021 - Thursday 07/09/2021     
