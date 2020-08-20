@@ -9,10 +9,11 @@ Lectures on Mondays from 16:00 to 18:00
 
 Teaching:    
 Monday 14/09/2020 – Friday 18/12/2020.  
-To be cancelled: TBD    
+To be cancelled: TBD (Possibly 5/10/2020 and 7/10/2020)  
 
 Holidays:   
-Mon. 11/11/2020 
+Mon. 02/11/2020
+Wed. 11/11/2020
 
 Exam session:    
 S1: Monday 04/01/2021 - Friday 29/01/2021.   
