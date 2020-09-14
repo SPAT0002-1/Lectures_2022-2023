@@ -8,7 +8,8 @@ Lectures on Mondays from 16:00 to 18:00
          and Wednesdays from 16:00 to 18:00 
 
 Teaching:    
-Monday 14/09/2020 – Friday 18/12/2020.  
+Monday 21/09/2020 – Friday 18/12/2020.
+Cancelled: 14/09/2020, 16/09/2020
 To be cancelled: TBD (Possibly 5/10/2020 and 7/10/2020)  
 
 Holidays:   
