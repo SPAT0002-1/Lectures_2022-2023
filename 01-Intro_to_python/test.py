@@ -1,3 +1,2 @@
-c = 10
-print(c)
-
+x = 10
+print(x)
