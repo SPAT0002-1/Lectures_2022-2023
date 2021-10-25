@@ -10,7 +10,7 @@ Lectures on Mondays from 16:00 to 18:00
 Teaching:    
 Wednesday 29/09/2021 – Friday 18/12/2021.    
 Cancelled: 15/09/2021, 20/09/2021, 22/09/2021    
-To be cancelled: 
+To be cancelled: Wed. 27/10/2021
 
 Holidays:   
 Mon. 27/09/2021
