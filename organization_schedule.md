@@ -2,20 +2,19 @@
 
 Actual scheme: 15h+15h   
 
-## Calendar 2021-2022:   
+## Calendar 2022-2023:   
 
 Lectures on Mondays from 16:00 to 18:00 
          and Wednesdays from 16:00 to 18:00 
 
 Teaching:    
-Wednesday 29/09/2021 – Friday 18/12/2021.    
-Cancelled: 15/09/2021, 20/09/2021, 22/09/2021, 27/10/2021
-To be cancelled: Wed. 17/11/2021    
+Q1: Wednesday 14/09/2022 – Friday 16/12/2022.    
+Cancelled: 14/09/2022, 19/09/2022, 21/09/2022
+To be cancelled: TBD
 
 Holidays:   
-Mon. 27/09/2021
-Mon. 01/11/2021    
+Mon. 31/10/2022    
 
 Exam session:     
-S1: Monday 03/01/2022 - Friday 28/01/2022.   
-S2(preliminary): Monday 16/08/2022 - Thursday 10/09/2022     
+S1: Monday 02/01/2023 - Saturday 28/01/2023.   
+S2(preliminary): Wednesday 16/08/2022 - Wednesday 13/09/2022     
