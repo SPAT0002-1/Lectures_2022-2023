@@ -8,6 +8,8 @@ Other useful cheat-sheets resources are available here:
 
 - https://stanford.edu/~shervine/teaching/cs-229/ Includes : Statistics, linear algebra, machine learning (deep, supervised, unsupervised).
 
+- Matplotlib Cheat Sheets and handout: https://matplotlib.org/cheatsheets/ 
+
 - Git/Github cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf 
 
 - GIT-SVN Cheat sheet (for those who were familiar with SVN ...):https://git.wiki.kernel.org/images-git/7/78/Git-svn-cheatsheet.pdf
