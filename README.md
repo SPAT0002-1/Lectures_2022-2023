@@ -1,7 +1,11 @@
 # Lectures
 
 This folder gathers the I-Python notebooks used for the lecture SPAT0002-1.   
-**Read the notebook** to understand how the course works in practice.    
+**Read the notebooks**:
+
+- [Index.ipynb](Index.ipynb) for a handy Index of the content of the various notebooks.
+- [Introduction.ipynb](Introduction.ipynb) to understand how the course works in practice.
+- [Test_config.ipynb](Test_config.ipynb) to see if you have installed the packages required for the lecture.
 
 The reference book (lecture notes) associated to this lecture is:
 
