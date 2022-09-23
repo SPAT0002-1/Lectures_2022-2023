@@ -15,6 +15,14 @@ Ivezic, Connolly, VanderPlas, and Gray, 2012 (Princeton University Press) (http:
 Details on the chapters of the book covered by this lecture will be given at the end of each Notebook.
 The Notebooks themselves constitute the other recommended learning support for this class. 
 
+A quick guide for installing python on your computer is available in the notebook [Install_python.ipynb](Install_python.ipynb)
+
+In case you have trouble with your local installation, a temporary backup solution consists in using google colab.
+You may launch the following https://colab.research.google.com/ .
+
+A window similar to the one below should be available. In the menu "github", you can simply copy-paste the link of the github of the lecture https://github.com/SPAT0002-1/Ongoing
+
+![GooleCollab](Figures/GoogleColab.png)
 
 For a detailed introduction to Version Control Systems:
 
