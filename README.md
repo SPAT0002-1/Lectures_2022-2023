@@ -20,7 +20,7 @@ A quick guide for installing python on your computer is available in the noteboo
 In case you have trouble with your local installation, a temporary backup solution consists in using google colab.
 You may launch the following https://colab.research.google.com/ .
 
-A window similar to the one below should be available. In the menu "github", you can simply copy-paste the link of the github of the lecture https://github.com/SPAT0002-1/Ongoing
+A window similar to the one below (the language might of the page might be different) should be available. In the menu `GitHub`, you can simply copy-paste the link of the github of the lecture https://github.com/SPAT0002-1/Ongoing
 
 ![GooleCollab](Figures/GoogleColab.png)
 
