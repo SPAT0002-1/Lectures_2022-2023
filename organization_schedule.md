@@ -9,7 +9,7 @@ Lectures on Mondays from 16:00 to 18:00
 
 Teaching:    
 Q1: Wednesday 14/09/2022 – Friday 16/12/2022.    
-Cancelled: 14/09/2022, 19/09/2022, 21/09/2022
+Cancelled: 14/09/2022, 19/09/2022, 21/09/2022, 19/10/2022
 To be cancelled: TBD
 
 Holidays:   
